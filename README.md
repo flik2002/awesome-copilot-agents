@@ -41,11 +41,11 @@
 - [MCPs](#mcps)
 - [How to Use](#how-to-use)
 
-## Why Copilot Instructions
+## Why Copilot Agents
 
-`copilot-instructions.md` and `*.instructions.md` files help guide GitHub Copilot by providing contextual details about your repository such as the type of workflow your team follows, tools and other project specific details such as coding style, frameworks used or project specific rules.
+Customized instructions, prompts, agent skills, agent MCPs, and custom agents help guide GitHub Copilot by providing contextual details about your repository such as the type of workflow your team follows, tools and other project specific details such as coding style, frameworks used or project specific rules.
 
-**Tip**: Learn more about Copilot Instructions in the [VS Code documentation](https://code.visualstudio.com/docs/copilot/copilot-customization).
+**Tip**: Learn more about customizing GitHub Copilot in VS Code in the [VS Code documentation](https://code.visualstudio.com/docs/copilot/customization/overview).
 
 ## Instructions
 
