@@ -2,3 +2,9 @@
 CLAUDE.md
 node_modules/
 dist/
+mise.toml
+eval_metadata.json
+grading.json
+timing.json
+evals.json
+benchmark.json
