@@ -43,7 +43,7 @@ When a user asks about Azure CLI syntax or wants to know what commands are avail
 | `az disk-access` | Manage disk access resources. | GA | [ref](./references/disk-access.md) |
 | `az disk-encryption-set` | Disk Encryption Set resource. | GA | [ref](./references/disk-encryption-set.md) |
 | `az disk-pool` | Manage Azure disk pool. | GA (ext) | [ref](./references/disk-pool.md) |
-| `az functionapp` | Manage function apps. To install the Azure Functions Core tools see https://github.com/Azure/azure-functions-core-tools. | GA | [ref](./references/functionapp.md) |
+| `az functionapp` | Manage function apps. To install the Azure Functions Core tools, see [the project repository](https://github.com/Azure/azure-functions-core-tools). | GA | [ref](./references/functionapp.md) |
 | `az image` | Manage custom virtual machine images. | GA | [ref](./references/image.md) |
 | `az logicapp` | Manage logic apps. | GA | [ref](./references/logicapp.md) |
 | `az ppg` | Manage Proximity Placement Groups. | GA | [ref](./references/ppg.md) |

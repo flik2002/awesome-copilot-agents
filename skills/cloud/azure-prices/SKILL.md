@@ -24,6 +24,7 @@ npm run --prefix @skills/azure-prices/scripts get-prices -- "Virtual Machines" e
 ```
 
 The script accepts two positional arguments:
+
 1. **Service name** (required for price lookup) — e.g. `"Virtual Machines"`, `"SQL Database"`, `"Storage"`, `"Azure Cosmos DB"`
 2. **Region** (optional, defaults to `eastus`) — e.g. `eastus`, `westus2`, `westeurope`, `southeastasia`
 

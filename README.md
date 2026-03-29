@@ -209,6 +209,10 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 ## MCPs
 
+MCPs (Model Context Protocol servers) give agents a standardized way to connect to external tools, APIs, data sources, and local capabilities. They extend what an agent can do beyond plain chat by exposing actions such as reading files, browsing the web, querying cloud platforms, or interacting with development tooling through a common protocol.
+
+This section highlights useful MCP servers you can add to your Copilot setup to expand agent capabilities for research, development, automation, and cloud workflows.
+
 ### General MCPs
 
 - [Knowledge Graph Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Create a local knowledge graph for your agent to remember information across different chat sessions.
