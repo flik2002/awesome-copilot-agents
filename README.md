@@ -4,10 +4,10 @@
 
 <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
 <div align="center">
-  <img src="./.refs/imgs/awesome-github-copilot.svg" alt="Awesome Copilot Instructions" height="300">
+  <img src="./.refs/imgs/awesome-github-copilot.svg" alt="Awesome Copilot Agents" height="300">
 </div>
 
-<h4 align="center">✨ A curated list of awesome GitHub instructions, prompt, skills and custom agent markdown files for enhancing your GitHub Copilot AI experience.</h4>
+<h4 align="center">✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and custom agent markdown files for enhancing your GitHub Copilot AI experience.</h4>
 
 <!--lint enable remark-lint:awesome-badge-->
 
@@ -43,7 +43,7 @@
 
 ## Why Copilot Agents
 
-Customized instructions, prompts, agent skills, agent MCPs, and custom agents help guide GitHub Copilot by providing contextual details about your repository such as the type of workflow your team follows, tools and other project specific details such as coding style, frameworks used or project specific rules.
+Customized instructions, prompts, agent skills, agent MCPs and custom agents help guide GitHub Copilot by providing contextual details about your repository such as the type of workflow your team follows, tools and other project specific details such as coding style, frameworks used or project specific rules.
 
 **Tip**: Learn more about customizing GitHub Copilot in VS Code in the [VS Code documentation](https://code.visualstudio.com/docs/copilot/customization/overview).
 
